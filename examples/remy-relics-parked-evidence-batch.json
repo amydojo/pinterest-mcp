@@ -1,0 +1,47 @@
+{
+  "campaign": "Remy Relics organic Pinterest launch — parked evidence pass",
+  "status": "parked",
+  "note": "Pins 01-04 object-first were posted manually. These 05-08 evidence Pins remain approved but unposted. image_url stays blank until controlled public media hosting is connected.",
+  "pins": [
+    {
+      "order": 5,
+      "key": "crystal-evidence",
+      "title": "One of One Clear Lariat Necklace Detail",
+      "description": "Close detail of the clear faceted focal and handmade chain construction on a one of one Remy Relics Y necklace.",
+      "alt_text": "Close crop of a clear faceted cube and gold tone chain on a warm amber background.",
+      "link": "https://www.etsy.com/listing/4555589401",
+      "drive_source_id": "1oYpczeCh6cAnkMv_Z4YSr5k39s7tCJDP",
+      "image_url": ""
+    },
+    {
+      "order": 6,
+      "key": "butterfly-evidence",
+      "title": "Pink Butterfly Bracelet | Handmade Art Jewelry",
+      "description": "A warm editorial view of a handmade butterfly charm bracelet from Remy Relics. One of one wearable art with pale pink and white accents.",
+      "alt_text": "Vertical editorial crop of gold tone chain and translucent butterfly charm lit against a warm orange field.",
+      "link": "https://www.etsy.com/listing/4555600378",
+      "drive_source_id": "1sU_h_1eCeTX5a5pb9jL9Fjb2aRU7pKRu",
+      "image_url": ""
+    },
+    {
+      "order": 7,
+      "key": "amber-evidence",
+      "title": "Amber Tone Faceted Necklace Detail | One of One",
+      "description": "Close evidence view of a warm amber tone faceted accent on a handmade lariat necklace. One of one Remy Relics jewelry.",
+      "alt_text": "Close-up of a warm amber colored faceted cube on a fine gold tone chain resting on a pale surface.",
+      "link": "https://www.etsy.com/listing/4555600386",
+      "drive_source_id": "1SOeCOxDJTXE1WSMoHMY_y5BcxqMOTbdz",
+      "image_url": ""
+    },
+    {
+      "order": 8,
+      "key": "green-evidence",
+      "title": "Green Drop Necklace Detail | One of One Jewelry",
+      "description": "Close detail of luminous green teardrop accents and small white details on a handmade one of one Y necklace.",
+      "alt_text": "Close-up of two translucent green drop accents with small white round details beside gold tone chain.",
+      "link": "https://www.etsy.com/listing/4555589415",
+      "drive_source_id": "1ziflczBHAMnWL2RgRHIzLV-WsfuTcGEK",
+      "image_url": ""
+    }
+  ]
+}
