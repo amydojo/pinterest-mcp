@@ -1,0 +1,2 @@
+# pinterest-mcp
+Pinterest bridge 
